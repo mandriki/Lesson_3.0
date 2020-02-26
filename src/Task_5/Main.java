@@ -19,7 +19,7 @@ public class Main {
         }
 
     }
-    private static boolean massCompare(int arr[][], int arr1[][]) {
+    public static boolean massCompare(int arr[][], int arr1[][]) {
         boolean temp = true;
         int i = 0;
         int j = 0;
